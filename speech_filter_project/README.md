@@ -1,1 +1,0 @@
-source /home/kyleb/projects/speech_filter_project/venv/bin/activate
